@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940691448715",
+    "project_id": "trabajofinal1-94cc4",
+    "storage_bucket": "trabajofinal1-94cc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940691448715:android:e4ab885f3fbb81b7ad858e",
+        "android_client_info": {
+          "package_name": "com.dam2.trabajofinal1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE9Jtjzz2HHGlgpo8Ip81pSqTy5tdN-rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
